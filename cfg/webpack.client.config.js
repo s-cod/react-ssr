@@ -36,7 +36,7 @@ module.exports = {
         exclude: /node_modules/,
       },
       {
-        test: /\.css$/,
+        test: /\.less$/,
         use: [
           'style-loader',
           {
@@ -48,6 +48,7 @@ module.exports = {
               },
             },
           },
+          'less-loader',
         ],
       },
     ],
