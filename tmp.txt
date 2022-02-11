@@ -1,0 +1,2 @@
+@hot-loader/react-dom clean-webpack-plugin cross-env html-webpack-plugin prettier react-hot-loader ts-loader typescript webpack webpack-cli webpack-dev-middleware webpack-hot-middleware webpack-node-externals
+express nodemon react react-dom webpack-dev-server 
